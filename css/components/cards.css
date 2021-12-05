@@ -1,0 +1,52 @@
+.cards {
+  background-color: #f5f5f5;
+}
+.card-one {
+  margin: 18px;
+  padding: 20px;
+  background-color: white;
+  text-align: center;
+  border-radius: 4px;
+  box-shadow: 0px 0px 2px rgba(100, 100, 100, 0.2);
+}
+
+.card-one img {
+  width: 100%;
+  height: 200px;
+  border-radius: 4px;
+  background-size: cover;
+  object-fit: cover;
+}
+
+.card-two {
+  margin: 18px;
+  padding: 20px;
+  text-align: center;
+  background-color: white;
+  border-radius: 4px;
+  box-shadow: 0px 0px 2px rgba(100, 100, 100, 0.2);
+}
+.card-two img {
+  width: 100%;
+  height: 200px;
+  border-radius: 4px;
+  background-size: cover;
+  object-fit: cover;
+}
+
+.card-three {
+  margin: 18px;
+  padding: 20px;
+  text-align: center;
+  background-color: white;
+  border-radius: 4px;
+  box-shadow: 0px 0px 2px rgba(100, 100, 100, 0.2);
+}
+
+.card-three img {
+   width: 100%;
+  height: 200px;
+  border-radius: 4px;
+  background-size: cover;
+  object-fit: cover;
+}

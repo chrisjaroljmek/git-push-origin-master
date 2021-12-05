@@ -1,0 +1,30 @@
+.footer {
+  margin: 0 auto;
+  background-color: #353946;
+  padding: 60px;
+  text-align: center;
+}
+
+.footer h2 {
+  font-size: 20px;
+  color: rgb(158, 150, 150);
+}
+
+.list-inline {
+  list-style: none;
+  padding: 0;
+}
+
+.list-inline li {
+  display: inline-block;
+}
+
+.social-icons {
+  font-size: 35px;
+  color: rgb(158, 150, 150);
+  margin: 10px 20px;
+}
+
+.social-icons:hover {
+  color: white;
+}
